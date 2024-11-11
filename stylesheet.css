@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'gilroybold_italic';
+    src: url('gilroy-bolditalic-webfont.woff2') format('woff2'),
+         url('gilroy-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'webfontregular';
+    src: url('gilroy-bold-webfont.woff2') format('woff2'),
+         url('gilroy-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gilroybold';
+    src: url('gilroy-bold-webfont.woff2') format('woff2'),
+         url('gilroy-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'webfontregular';
+    src: url('gilroy-blackitalic-webfont.woff2') format('woff2'),
+         url('gilroy-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gilroyblack_italic';
+    src: url('gilroy-blackitalic-webfont.woff2') format('woff2'),
+         url('gilroy-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'webfontregular';
+    src: url('gilroy-black-webfont.woff2') format('woff2'),
+         url('gilroy-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gilroyblack';
+    src: url('gilroy-black-webfont.woff2') format('woff2'),
+         url('gilroy-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
